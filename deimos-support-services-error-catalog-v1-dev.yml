@@ -1,5 +1,5 @@
 systemErrorList:
-- errorCode: JA0002
+- errorCode: JA0002CAMILO
   description: Los datos proporcionados no son validos xxxxxxxxxx.
   literalCode: ERROR_GENERIC
   operationCode: null
