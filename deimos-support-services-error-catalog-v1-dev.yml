@@ -6,7 +6,7 @@ systemErrorList:
   errorTypeCode: GENERAL
   applicationCode: JA
   severityCode: Error
-- errorCode: JACARLOS
+- errorCode: PRUEBA123XYC
   description: Ocurrio un error intentando invocar servicios externos. Por favor reintente nuevamente ******************.
   literalCode: ERROR_GENERIC
   operationCode: null
